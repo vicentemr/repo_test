@@ -1,0 +1,22 @@
+{
+    "todos":[
+        {
+            "tittle": "Tarea 1",
+            "responsable": "Vicente",
+            "descripcion": "Registrar",
+            "prioridad":"alta"
+        },
+        {
+            "tittle": "Tarea 2",
+            "responsable": "Winny",
+            "descripcion": "Modificar",
+            "prioridad":"media"
+        },
+        {
+            "tittle": "Tarea 3",
+            "responsable": "Giusseppi",
+            "descripcion": "Eliminar",
+            "prioridad":"baja"
+        }
+    ]
+}
